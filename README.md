@@ -1,2 +1,4 @@
-# English-for-Computer-Professionals_Tmy
-8.计算机专业英语
+# 8.计算机专业英语
+● 具有工程师所要求的英语阅读水平
+
+● 理解本领域的英语术语
